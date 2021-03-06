@@ -1,0 +1,20 @@
+Короче
+Проги маленькие
+Значит сделаем кусочки в презентации
+и они из них смогут собрать лабу... Если знают как :)))
+
+
+http://dspace.kpfu.ru/xmlui/bitstream/handle/net/146484/paralGafGal.pdf;jsessionid=E906107A230DC37CA0CAE93D4DF72BE7?sequence=1
+
+http://ccfit.nsu.ru/arom/data/openmp.pdf
+
+https://pro-prof.com/archives/4335
+
+https://www.openmp.org/spec-html/5.0/openmpsu160.html
+
+Secret
+https://hpc.llnl.gov/training/tutorials/introduction-parallel-computing-tutorial
+https://princetonuniversity.github.io/PUbootcamp/sessions/parallel-programming/Intro_PP_bootcamp_2018.pdf
+
+
+https://www.youtube.com/watch?v=CsV3GY5Fgec
